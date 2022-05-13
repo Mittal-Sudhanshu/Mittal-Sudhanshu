@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thebrowngeek-Sudhanshu
-- 👀 I’m interested in ...Java,Python
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... Android and Web Development
+- 🌱 I'm currently learning Android Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Dm me on Instagram @sudhanshu._mittal
 
