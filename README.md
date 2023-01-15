@@ -3,17 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mittal-sudhanshu&label=Profile%20views&color=0e75b6&style=flat" alt="mittal-sudhanshu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mittal-sudhanshu" alt="mittal-sudhanshu" /></a> </p>
-
-- 🔭 I’m currently working on [HealthAir](https://github.com/RitikJha93/HealthAir)
-
-- 🌱 I’m currently learning **Go Lang**
-
-- 👯 I’m looking to collaborate on **Backend Projects**
-
-- 💬 Ask me about **Flutter, Node.js**
-
-- 📫 How to reach me **sudhanshu.mittal.49@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
